@@ -6,34 +6,44 @@
 }
 .navbar{
    background: #1f2937;
-   height: 100px;
+   height: 80px;
    display: flex;
-}
+   justify-content: center;
+   align-items: center;
+} 
 .navbar_container{
    display: flex;
    justify-content: space-between;
-   padding-top: 20px;
+   height: 80px;
+   width: 100%;
+   max-width: 1300px;
+   margin: 0 auto;
+   padding: 0 100px;
 }
 #navbar_logo{
    color: #F9FAF8;
    font-size: 24px;
    text-decoration: none;
-   width: 400px;
    cursor: pointer;
+   display: flex;
+   align-items: center;
 }
 .navbar_menu{
    font-size: 18px;
    display: flex;
+   align-items: center;
    list-style: none;
-   width: 400px;
-   flex-basis: 420px;
-   justify-content: space-between;
    text-align: center;
 }
 .navbar_item{
-   
+   height: 80px;
 }
-.navbar_item a{
+.navbar_links{
    color: #E5E7Eb;
+   display: flex;
+   justify-content: center;
+   align-items: center;
    text-decoration: none;
+   height: 100%;
+   padding: 0 1rem;
 }
