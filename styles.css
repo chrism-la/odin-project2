@@ -70,11 +70,35 @@
    align-items: center;
    justify-content: center;
    height: 100px;
-   width: ;
 }
 .hero_main p{
    color: #F9FAF8;
    font-size: 48px;
    font-weight: bolder;
 }
-
+.hero_secondary{
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   height: 50px;
+}
+.hero_secondary p{
+   color: #E5E7Eb;
+   font-size: 18px;
+}
+button{
+   
+}
+.img_container{
+   display: flex;
+   align-items: center;
+   height: 500px;
+   width: 100%;
+}
+img{
+   object-fit: fill;
+   height: 150px;
+   width: 100%;
+}
