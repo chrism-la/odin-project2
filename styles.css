@@ -54,3 +54,27 @@
    justify-content: center;
    align-items: center;
 }
+.hero_container{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   height: 500px;
+   width: 100%;
+   max-width: 1300px;
+}
+.hero_main{
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   height: 100px;
+   width: ;
+}
+.hero_main p{
+   color: #F9FAF8;
+   font-size: 48px;
+   font-weight: bolder;
+}
+
