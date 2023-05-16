@@ -6,10 +6,20 @@
 }
 .navbar{
    background-color: #1f2937;
+   height: 100px;
 }
 .navbar_container{
    display: flex;
-   justify-content: center;
-   align-items: center;
+   justify-content: space-between;
 }
-
+#navbar_logo{
+   color: #F9FAF8;
+   font-size: 24px;
+   text-decoration: none;
+   justify-content: left;
+   padding-left: 10%;
+}
+.navbar_menu{
+   display: flex;
+   list-style: none;
+}
