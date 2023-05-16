@@ -49,7 +49,7 @@
 }
 .hero{
    background: #1f2937;
-   height: 500px;
+   height: 450px;
    display: flex;
    justify-content: center;
    align-items: center;
@@ -59,9 +59,10 @@
    flex-direction: column;
    align-items: center;
    justify-content: center;
-   height: 500px;
+   height: 450px;
    width: 100%;
    max-width: 1300px;
+   padding-left: 100px;
 }
 .hero_main{
    display: flex;
@@ -94,11 +95,9 @@ button{
 .img_container{
    display: flex;
    align-items: center;
-   height: 500px;
+   height: 450px;
    width: 100%;
 }
 img{
    object-fit: fill;
-   height: 150px;
-   width: 100%;
 }
