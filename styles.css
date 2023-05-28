@@ -249,6 +249,15 @@ button{
    justify-content: center;
 }
 .call_text{
+   height: 66px;
+   width: 641px;
+   display: flex;
+   flex-direction: column;
+}
+.call_text1{
    color: #F9FAF8;
    font-size: 25px;
+}
+.call_text2{
+   color: #E5E7Eb;
 }
