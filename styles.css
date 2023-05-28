@@ -187,3 +187,18 @@ button{
    font-size: 18px;
    text-align: center;
 }
+
+/* Quote Section */
+
+.quote{
+   background-color: #E5E7Eb;
+   height: 480px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.quote_container{
+   display: flex;
+   height: 480px;
+   width: 100%;
+}
