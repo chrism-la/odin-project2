@@ -277,8 +277,12 @@ button{
 
 .footer{
    background: #1f2937;
-   height: 80px;
+   height: 100px;
    display: flex;
    justify-content: center;
    align-items: center;
+}
+.footer_text{
+   color: #E5E7Eb;
+   font-size: 20px;
 }
