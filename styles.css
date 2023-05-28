@@ -272,3 +272,13 @@ button{
    border-width: 2px;
    cursor: pointer;
 }
+
+/* Footer Section */
+
+.footer{
+   background: #1f2937;
+   height: 80px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
