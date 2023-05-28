@@ -226,7 +226,7 @@ button{
 
 .call{
    background-color: #fff;
-   height: 440px;
+   height: 435px;
    display: flex;
    justify-content: center;
    align-items: center;
@@ -236,12 +236,19 @@ button{
    flex-direction: column;
    justify-content: center;
    align-items: center;
-   height: 440px;
+   height: 435px;
    width: 100%;
 }
 .call_box{
-   height: 180px;
+   height: 170px;
    width: 1100px;
    background-color: #3882f6;
    border-radius: 10px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.call_text{
+   color: #F9FAF8;
+   font-size: 25px;
 }
