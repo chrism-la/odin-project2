@@ -211,3 +211,13 @@ button{
    font-weight: lighter;
    color: #1f2937;
 }
+.quote_name_box{
+   width: 751.03px;
+   display: flex;
+   justify-content: end;
+}
+.quote_name{
+   font-size: 24px;
+   font-weight: bold;
+   color: #1f2937;
+}
