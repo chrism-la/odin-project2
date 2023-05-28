@@ -261,3 +261,14 @@ button{
 .call_text2{
    color: #E5E7Eb;
 }
+.btn{
+   font-weight: bold;
+   color: #fff;
+   width: 140px;
+   height: 40px;
+   border-radius: 10px;
+   border-style: solid;
+   border-color: #F9FAF8;
+   border-width: 2px;
+   cursor: pointer;
+}
